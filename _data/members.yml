@@ -1,0 +1,48 @@
+# TODO: find members before 2014
+- name: Wojtek Skalski
+  graduation: 2017
+
+- name: Ania Przybycień
+  graduation: 2017
+
+- name: Marta Rybarczyk
+  graduation: 2017
+  active: false
+
+- name: Maciej Choromański
+  graduation: 2017
+  active: false
+
+- name: Mateusz Kozicki
+  graduation: 2017
+
+- name: Wojtek Lange
+  graduation: 2017
+
+- name: Piotr Molenda
+  graduation: 2017
+
+- name: Norbert Szulc
+  graduation: 2016
+
+- name: Daniel Gierdal
+  graduation: 2016
+  active: false
+
+- name: Krzysztof Kaczorowski
+  graduation: 2016
+  active: false
+
+- name: Kacper Nowak
+  graduation: 2016
+  active: false
+
+- name: Kasia Gehrmann
+  graduation: 2016
+  active: false
+
+- name: Jakub Olesz
+  graduation: 2015
+
+- name: Patryk Dybowski
+  graduation: 2014

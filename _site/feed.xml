@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Young Robotics Club</description>
+    <link>https://roboilo.github.io//blog/</link>
+    <atom:link href="https://roboilo.github.io//blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 09 Sep 2017 00:31:34 +0200</pubDate>
+    <lastBuildDate>Sat, 09 Sep 2017 00:31:34 +0200</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Roboilo w Teleekspresie</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mFNOWTXo2yw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Fragment Teleexpressu z 20 kwietnia, który przedstawia Kostkownika oraz robota Militum.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Apr 2011 00:48:45 +0200</pubDate>
+        <link>https://roboilo.github.io//blog/youtube/2011/04/20/teleekspress/</link>
+        <guid isPermaLink="true">https://roboilo.github.io//blog/youtube/2011/04/20/teleekspress/</guid>
+        
+        
+        <category>youtube</category>
+        
+      </item>
+    
+  </channel>
+</rss>
